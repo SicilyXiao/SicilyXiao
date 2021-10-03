@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SicilyXiao
 - 👀 I’m interested in learning new things!
-- 🌱 I’m currently a first-year majoring Computer Science and Music with strong interests in Mathematics and Journalism!(Very Diverse I know)
+- 🌱 I’m currently a first-year majoring Computer Science and Music with strong interests in Mathematics and Journalism!(Very diverse I know)
 - 📫 Reach me by email! Address: xiaoyixiao2003@gmail.com or xiao29y@mtholyoke.edu
 
 <!---
