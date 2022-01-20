@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SicilyXiao
 - 💕 I use She/They pronouns
 - 👀 I’m interested in learning new things!
-- 🌱 I’m currently a first-year majoring Computer Science and Music with strong interests in Mathematics and Journalism!(Very diverse I know)
+- 🌱 I’m currently a first-year majoring Computer Science and Music with strong interests in Mathematics and Philosophy!(Very diverse I know)
 - 📫 Reach me by email! Address: xiaoyixiao2003@gmail.com or xiao29y@mtholyoke.edu
 
 <!---
