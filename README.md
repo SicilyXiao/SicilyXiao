@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @SicilyXiao
 - 💕 I use She/They pronouns
 - 👀 I’m interested in learning new things!
-- 🌱 I’m currently a sophomore at Mount Holyoke College, double-majoring in Math and Music with an unofficial minor in Computer Science.
-- 📫 Reach me by email. Address: xiaoyixiao2003@gmail.com or xiao29y@mtholyoke.edu
-- 🔎 I am looking for summer internship/research opportunities in math, music, computer science, and finance for summer 2023, winter 2023-2024, and summer 2024.
+- 🌱 I’m currently a junior student at Oberlin College, double-majoring in Math and Musical Studies with a concentration in Arts Administration.
+- 📝 I also have experience in journalism and marketing
+- 📫 Reach me by email. Address: xiaoyixiao2003@gmail.com or yxiao3@oberlin.edu
+- 🔎 I am looking for internship/research opportunities in math, tech, finance, music, marketing and journalism for summer 2024 and winter 2024-2025.
 <!---
 SicilyXiao/SicilyXiao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
